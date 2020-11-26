@@ -1,21 +1,19 @@
-# This is a large heading  
+# Look into the future
 
-## This is a smaller heading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### What's the plan here?
 
-- This is
-- an unordered
-- list
+In the next couple of months I plan on learning everything related to programming in **Python**, which is one of the best programming
+languages to start with.
 
-1. This is
-2. an ordered
-3. list
+### What will I learn?
 
-Here is `some code` in the middle of a sentence
+- Python syntax
+- Git and Github
+- Problem-solving
+- Small projects
+
+This is where `some code` is going to go.
 
 ``` 
 This is
